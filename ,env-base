@@ -1,0 +1,3 @@
+POSTGRES_USER=odoo_user
+POSTGRES_PASSWORD=SuperSecret123!
+POSTGRES_DB=odoo_db
